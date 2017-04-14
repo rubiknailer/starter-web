@@ -8,5 +8,6 @@ random typing something
 ## Deployment
 
 ## How to Contribute
+No way to contribute
 
 ### Copyright
