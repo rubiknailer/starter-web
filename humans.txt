@@ -6,6 +6,7 @@
     Rubik Nailer rubiknailer@gmail.com @lalala
 	second one secondone@gmail.com @lalalagain
 	no third one 
+	keep adding until it works
 
 # THANKS
 
