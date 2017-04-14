@@ -8,7 +8,11 @@ random typing something
 ## Deployment
 
 ## How to Contribute
+<<<<<<< HEAD
 None
 None again
+=======
+No way to contribute
+>>>>>>> simple-changes
 
 ### Copyright
